@@ -1,5 +1,4 @@
 library(multivariateLassosum)
-library(bigsnpr)
 library(data.table)
 params<-commandArgs(TRUE)
 cc_trait<-params[1]
